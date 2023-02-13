@@ -1,1 +1,1 @@
-# bzoh1.github.io
+# articles.goat.da
